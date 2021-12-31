@@ -1,3 +1,15 @@
+Tracking the trackers. Draw connections between scripts and domains on website.
+https://github.com/woj-ciech/kupa3
+
+Ultimate Internet of Things/Industrial Control Systems reconnaissance tool.
+https://github.com/woj-ciech/Kamerka-GUI
+
+Track users across social media platform
+https://github.com/woj-ciech/SocialPath
+
+A collection of several hundred online tools for OSINT
+https://github.com/cipher387/osint_stuff_tool_collection
+
 A Search Tool created to explore the FBI's nj arrest file. Created For Hack Jersey 2.0
 
 https://github.com/CarlaAstudillo/ArreStats
