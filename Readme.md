@@ -1,3 +1,12 @@
+A toolkit for the post-mortem examination of Docker containers from forensic HDD copies
+https://github.com/docker-forensics-toolkit/toolkit
+
+Dump the iOS Frequent Location binary plist files
+https://github.com/mac4n6/iOS-Frequent-Locations-Dumper
+
+Whapa is a set of graphical forensic tools to analyze whatsapp from Android and soon iOS devices. All the tools have been written in Python 3.8 and have been tested on linux, windows and macOS systems.
+https://github.com/B16f00t/whapa
+
 Tracking the trackers. Draw connections between scripts and domains on website.
 https://github.com/woj-ciech/kupa3
 
