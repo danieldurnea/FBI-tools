@@ -1,3 +1,9 @@
+Holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+https://github.com/megadose/holehe
+
+ProtOSINT is a Python script that helps you investigate Protonmail accounts and ProtonVPN IP addresses
+https://github.com/pixelbubble/ProtOSINT
+
 A toolkit for the post-mortem examination of Docker containers from forensic HDD copies
 https://github.com/docker-forensics-toolkit/toolkit
 
