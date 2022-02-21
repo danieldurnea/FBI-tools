@@ -53,6 +53,17 @@ https://github.com/Microsoft/app-metadata
 An Open-Source Mobile Forensic Research Tool for android platform
 https://github.com/scorelab/ANDROPHSY
 
+RdpCacheStitcher is a tool that supports forensic analysts in 
+reconstructing useful images out of RDP cache bitmaps. - https://github.com/BSI-Bund/RdpCacheStitcher
+
+Androidqf (Android Quick Forensics) helps quickly gathering forensic 
+evidence from Android devices, in order to identify potential traces of 
+compromise. - https://github.com/botherder/androidqf
+
+PED is an open source software that can be used to process and analyze 
+digital evidence, often seized at crime scenes by law enforcement or in a
+corporate investigation by private examiners. - https://github.com/sepinf-inc/IPED
+
 Automation and automation of digital forensic tools
 https://github.com/google/turbinia
 
