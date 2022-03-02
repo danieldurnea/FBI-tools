@@ -1,3 +1,6 @@
+Detection of phishing domains and domain squatting. Supports permutations such as homograph attack, typosquatting and bitsquatting. :
+https://github.com/atenreiro/opensquat
+
 Proof of concept for abusing Telegram's "People Near Me" feature and tracking people's location:
 https://github.com/jkctech/Telegram-Trilateration
 
