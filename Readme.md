@@ -30,9 +30,11 @@ https://github.com/woj-ciech/SocialPath
 A collection of several hundred online tools for OSINT
 https://github.com/cipher387/osint_stuff_tool_collection
 
-
 A Search Tool created to explore the FBI's nj arrest file. Created For Hack Jersey 2.0
 https://github.com/CarlaAstudillo/ArreStats
+
+This virtual machine image is intended for open source offensive reconnaissance. The iso image of the kali linux NetInstall operating system is taken as a basis. Other required packages were installed manually. The image includes the following packages.:
+https://github.com/delikely/OSINT-JUMP
 
 Infoga - Collection of information by e-mail
 https://github.com/m4ll0k/Infoga
