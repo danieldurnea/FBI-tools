@@ -3,6 +3,7 @@
 Automate downloading archived deleted Tweets.: https://github.com/Mennaruuk/twayback
 
 So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools.: https://github.com/OhShINT/ohshint.gitbook.io
+
 Detection of phishing domains and domain squatting. Supports permutations such as homograph attack, typosquatting and bitsquatting. :
 https://github.com/atenreiro/opensquat
 
