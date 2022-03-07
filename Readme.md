@@ -39,6 +39,8 @@ https://github.com/woj-ciech/SocialPath
 A collection of several hundred online tools for OSINT
 https://github.com/cipher387/osint_stuff_tool_collection
 
+Real-time HTTP Intrusion Detection. : https://github.com/kitabisa/teler
+
 A Search Tool created to explore the FBI's nj arrest file. Created For Hack Jersey 2.0
 https://github.com/CarlaAstudillo/ArreStats
 
