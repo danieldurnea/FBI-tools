@@ -1,3 +1,6 @@
+An OSINT framework updated weekly, wich with you can search on precise targets, with a lot of features like person search, criminal search, or social media scanning with eamail/phone, and ip changer. :
+https://github.com/DR34M-M4K3R/GhostRecon
+
 Collector is a tool for osint (open source intelligence). : https://github.com/galihap76/collector
 
 Automate downloading archived deleted Tweets.: https://github.com/Mennaruuk/twayback
