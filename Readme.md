@@ -1,3 +1,7 @@
+A tool to search Aviation-related intelligence from public sources. : https://github.com/n0skill/AVOSINT
+
+PoC OSINT Discord user and guild information harvester : https://github.com/V3ntus/darvester
+
 An OSINT framework updated weekly, wich with you can search on precise targets, with a lot of features like person search, criminal search, or social media scanning with eamail/phone, and ip changer. :
 https://github.com/DR34M-M4K3R/GhostRecon
 
