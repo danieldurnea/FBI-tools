@@ -1,3 +1,5 @@
+🔍 A Complete Osint Tool : https://github.com/Lucksi/Mr.Holmes
+
 A tool to search Aviation-related intelligence from public sources. : https://github.com/n0skill/AVOSINT
 
 PoC OSINT Discord user and guild information harvester : https://github.com/V3ntus/darvester
@@ -36,6 +38,10 @@ https://github.com/B16f00t/whapa
 
 Tracking the trackers. Draw connections between scripts and domains on website.
 https://github.com/woj-ciech/kupa3
+
+To extract the usernames attempted by a compromised host. This information is obtained from Abuse IP DB, reports' comments. : https://github.com/west-wind/abuse-insights
+
+Advanced Github OSINT Framework : https://github.com/rly0nheart/octosuite
 
 Ultimate Internet of Things/Industrial Control Systems reconnaissance tool.
 https://github.com/woj-ciech/Kamerka-GUI
