@@ -1,3 +1,5 @@
+Infoooze is an Open-source intelligence (OSINT) tool in NodeJs. It provides various modules that allow efficient searches. : https://github.com/7ORP3DO/infoooze
+
 Oblivion is a tool focused in real time monitoring of new data leaks, notifying if the credentials of the user has been leak out. It's possible too verify if any credential of user has been leak out before. : https://github.com/loseys/Oblivion/tree/0f5619ecba6a9b1ebc6dc6f4988ef6c542bf8ca3
 
 🔍 A Complete Osint Tool : https://github.com/Lucksi/Mr.Holmes
