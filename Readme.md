@@ -1,3 +1,5 @@
+Powershell Script to aid Incidence Response and Live Forensics:  https://github.com/Johnng007/Live-Forensicator
+
 OSINT tool that allows you to find a person's accounts and emails + breached emails:  https://github.com/Greyjedix/Profil3r
 
 Infoooze is an Open-source intelligence (OSINT) tool in NodeJs. It provides various modules that allow efficient searches. : https://github.com/7ORP3DO/infoooze
