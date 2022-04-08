@@ -1,3 +1,5 @@
+https://github.com/ChmaraX/forensix. : Google Chrome forensic tool to process, analyze and visualize browsing artifacts
+
 A free, open source, cross platform Intelligence gathering tool. : https://github.com/3nock/sub3suite
 
 Powershell Script to aid Incidence Response and Live Forensics:  https://github.com/Johnng007/Live-Forensicator
