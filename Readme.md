@@ -1,4 +1,4 @@
-https://github.com/ChmaraX/forensix. : Google Chrome forensic tool to process, analyze and visualize browsing artifacts
+Google Chrome forensic tool to process, analyze and visualize browsing artifacts. : https://github.com/ChmaraX/forensix
 
 A free, open source, cross platform Intelligence gathering tool. : https://github.com/3nock/sub3suite
 
