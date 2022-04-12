@@ -1,3 +1,5 @@
+𝚔𝚊𝚛𝚖𝚊 𝚟𝟸⠐⢾ is a Passive Open Source Intelligence. : (OSINT) Automated Reconnaissance (framework)https://github.com/Dheerajmadhukar/karma_v2
+
 Octosuite :-- Advanced Github OSINT Framework. : https://github.com/rly0nheart/octosuite
 
 Google Chrome forensic tool to process, analyze and visualize browsing artifacts. : https://github.com/ChmaraX/forensix
