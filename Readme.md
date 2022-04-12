@@ -1,4 +1,4 @@
-𝚔𝚊𝚛𝚖𝚊 𝚟𝟸⠐⢾ is a Passive Open Source Intelligence. : (OSINT) Automated Reconnaissance (framework)https://github.com/Dheerajmadhukar/karma_v2
+K𝚊𝚛𝚖𝚊 𝚟𝟸 is a Passive Open Source Intelligence. : (OSINT) Automated Reconnaissance (framework) https://github.com/Dheerajmadhukar/karma_v2
 
 Octosuite :-- Advanced Github OSINT Framework. : https://github.com/rly0nheart/octosuite
 
