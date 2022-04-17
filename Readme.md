@@ -40,6 +40,8 @@ Discover the location of nearby Telegram users 📡🌍 : https://github.com/tej
 Holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 https://github.com/megadose/holehe
 
+OSINT Tool on Twitter and Instagram. : https://github.com/xadhrit/terra
+
 ProtOSINT is a Python script that helps you investigate Protonmail accounts and ProtonVPN IP addresses
 https://github.com/pixelbubble/ProtOSINT
 
