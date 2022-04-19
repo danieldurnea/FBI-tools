@@ -1,3 +1,6 @@
+A tool for OSINT based threat hunting. : https://github.com/ninoseki/mihari
+
+
 K𝚊𝚛𝚖𝚊 𝚟𝟸 is a Passive Open Source Intelligence. : (OSINT) Automated Reconnaissance (framework) https://github.com/Dheerajmadhukar/karma_v2
 
 Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more. : https://github.com/megadose/toutatis
