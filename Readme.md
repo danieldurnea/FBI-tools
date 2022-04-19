@@ -4,6 +4,8 @@ Tracee: Runtime Security and Forensics using eBPF. : https://github.com/aquasecu
 
 K𝚊𝚛𝚖𝚊 𝚟𝟸 is a Passive Open Source Intelligence. : (OSINT) Automated Reconnaissance (framework) https://github.com/Dheerajmadhukar/karma_v2
 
+Secure ELF parsing/loading library for forensics reconstruction of malware, and robust reverse engineering tools. : https://github.com/elfmaster/libelfmaster
+
 Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more. : https://github.com/megadose/toutatis
 
 Octosuite :-- Advanced Github OSINT Framework. : https://github.com/rly0nheart/octosuite
