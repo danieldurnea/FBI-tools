@@ -1,3 +1,5 @@
+All the tools you need to make your own mind up from the Open Data Sets.: https://github.com/tg12/rapid7_OSINT
+
 A tool for OSINT based threat hunting. : https://github.com/ninoseki/mihari
 
 Tracee: Runtime Security and Forensics using eBPF. : https://github.com/aquasecurity/tracee
