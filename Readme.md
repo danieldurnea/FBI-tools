@@ -1,5 +1,3 @@
-IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners. : https://github.com/sepinf-inc/IPED
-
 Collaborative Incident Response platform. : https://github.com/dfir-iris/iris-web
 
 A list of free and open forensics analysis tools and other resources. : https://github.com/mesquidar/ForensicsTools
