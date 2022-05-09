@@ -1,3 +1,7 @@
+DaProfiler allows you to get emails, social medias, adresses, works and more on your target using web scraping and google dorking techniques, based in France Only. The particularity of this program is its ability to find your target's e-mail adresses.: https://github.com/daprofiler/DaProfiler
+
+So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools.: https://github.com/OhShINT/ohshint.gitbook.io
+
 A repository with information related to differnet resources, tools and techniques related with Cloud OSINT. : https://github.com/7WaySecurity/cloud_osint
 
 All the tools you need to make your own mind up from the Open Data Sets.: https://github.com/tg12/rapid7_OSINT
