@@ -2,6 +2,8 @@ Collaborative Incident Response platform. : https://github.com/dfir-iris/iris-we
 
 A list of free and open forensics analysis tools and other resources. : https://github.com/mesquidar/ForensicsTools
 
+Quidam allows you to retrieve information thanks to the forgotten password function of some sites.: https://github.com/megadose/Quidam
+
 DaProfiler allows you to get emails, social medias, adresses, works and more on your target using web scraping and google dorking techniques, based in France Only. The particularity of this program is its ability to find your target's e-mail adresses.: https://github.com/daprofiler/DaProfiler
 
 So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools.: https://github.com/OhShINT/ohshint.gitbook.io
