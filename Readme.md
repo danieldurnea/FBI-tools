@@ -8,6 +8,8 @@ So what is this all about? Yep, its an OSINT blog and a collection of OSINT reso
 
 A repository with information related to differnet resources, tools and techniques related with Cloud OSINT. : https://github.com/7WaySecurity/cloud_osint
 
+Major tools used for Digital Forensic Investigation, includes tools used for Image, Audio, Memory, Network and Disk Image data analysis. Helpful resource for CTF Challenges. : https://github.com/karthik997/Forensic_Toolkit
+
 All the tools you need to make your own mind up from the Open Data Sets.: https://github.com/tg12/rapid7_OSINT
 
 A tool for OSINT based threat hunting. : https://github.com/ninoseki/mihari
