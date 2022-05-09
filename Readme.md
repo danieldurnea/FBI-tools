@@ -1,3 +1,5 @@
+A repository with information related to differnet resources, tools and techniques related with Cloud OSINT. : https://github.com/7WaySecurity/cloud_osint
+
 All the tools you need to make your own mind up from the Open Data Sets.: https://github.com/tg12/rapid7_OSINT
 
 A tool for OSINT based threat hunting. : https://github.com/ninoseki/mihari
