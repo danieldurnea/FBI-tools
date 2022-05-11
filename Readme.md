@@ -19,7 +19,7 @@ A repository with information related to differnet resources, tools and techniqu
 ### Forensics Toolkit for image ,audio,network and disk image analiys.
 Major tools used for Digital Forensic Investigation, includes tools used for Image, Audio, Memory, Network and Disk Image data analysis. Helpful resource for CTF Challenges. : https://github.com/karthik997/Forensic_Toolkit
 
-### Rapid7 OSITN
+### Rapid7 OSINT
 All the tools you need to make your own mind up from the Open Data Sets.: https://github.com/tg12/rapid7_OSINT
 
 ### Mihari
