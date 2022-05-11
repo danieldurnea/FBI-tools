@@ -77,8 +77,8 @@ https://github.com/DR34M-M4K3R/GhostRecon
 ### Collector
 Collector is a tool for osint (open source intelligence). : https://github.com/galihap76/collector
 
-###Twayback
-Automate downloading archived deleted Tweets.: https://github.com/Mennaruuk/twayback
+### Twayback
+Automate downloading archived deleted ets.: https://github.com/Mennaruuk/twayback
 
 ### Opensquat
 Detection of phishing domains and domain squatting. Supports permutations such as homograph attack, typosquatting and bitsquatting. :
