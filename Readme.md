@@ -16,7 +16,7 @@ So what is this all about? Yep, its an OSINT blog and a collection of OSINT reso
 ### Tools and techniques related with Cloud Osint
 A repository with information related to differnet resources, tools and techniques related with Cloud OSINT. : https://github.com/7WaySecurity/cloud_osint
 
-### Forensics Toolkit for image ,audio,network and disk image analiys.
+### Forensics Toolkit for image ,audio,network and disk image analyis.
 Major tools used for Digital Forensic Investigation, includes tools used for Image, Audio, Memory, Network and Disk Image data analysis. Helpful resource for CTF Challenges. : https://github.com/karthik997/Forensic_Toolkit
 
 ### Rapid7 OSINT
