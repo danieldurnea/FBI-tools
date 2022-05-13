@@ -1,6 +1,9 @@
 ### Iris Web
 Collaborative Incident Response platform. : https://github.com/dfir-iris/iris-web
 
+### Judge Jury and Executable
+A file system forensics analysis scanner and threat hunting tool. Scans file systems at the MFT and OS level and stores data in SQL, SQLite or CSV. Threats and data can be probed harnessing the power and syntax of SQL. : https://github.com/AdamWhiteHat/Judge-Jury-and-Executable
+
 ### Forensics Tools
 A list of free and open forensics analysis tools and other resources. : https://github.com/mesquidar/ForensicsTools
  
@@ -15,6 +18,9 @@ https://github.com/megadose/quidam-maltego
 
 ### OnionSearch
 OnionSearch is a script that scrapes urls on different .onion search engines. : https://github.com/megadose/OnionSearch
+
+### Linux explorer 
+Easy-to-use live forensics toolbox for Linux endpoints. : https://github.com/intezer/linux-explorer
 
 ### DaProfiler
 DaProfiler allows you to get emails, social medias, adresses, works and more on your target using web scraping and google dorking techniques, based in France Only. The particularity of this program is its ability to find your target's e-mail adresses.: https://github.com/daprofiler/DaProfiler
