@@ -3,6 +3,9 @@ Collaborative Incident Response platform. : https://github.com/dfir-iris/iris-we
 
 ### Forensics Tools
 A list of free and open forensics analysis tools and other resources. : https://github.com/mesquidar/ForensicsTools
+ 
+### Commit-stream
+OSINT tool for finding Github repositories by extracting commit logs in real time from the Github event API. : https://github.com/x1sec/commit-stream
 
 ### Quidam
 Quidam allows you to retrieve information thanks to the forgotten password function of some sites.: https://github.com/megadose/Quidam
