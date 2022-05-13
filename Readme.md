@@ -7,6 +7,9 @@ A list of free and open forensics analysis tools and other resources. : https://
 ### Quidam
 Quidam allows you to retrieve information thanks to the forgotten password function of some sites.: https://github.com/megadose/Quidam
 
+### OnionSearch
+OnionSearch is a script that scrapes urls on different .onion search engines. : https://github.com/megadose/OnionSearch
+
 ### Quidam maltego transform
 https://github.com/megadose/quidam-maltego
 
