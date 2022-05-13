@@ -53,10 +53,11 @@ Toutatis is a tool that allows you to extract information from instagrams accoun
 ### Octosuite
 Octosuite :-- Advanced Github OSINT Framework. : https://github.com/rly0nheart/octosuite
 
+### Should i trust
+OSINT tool to evaluate the trustworthiness of a company. : https://github.com/ericalexanderorg/should-i-trust
 
 ### Forensix
 Google Chrome forensic tool to process, analyze and visualize browsing artifacts. : https://github.com/ChmaraX/forensix
-
 
 ### Sub3suite
 A free, open source, cross platform Intelligence gathering tool. : https://github.com/3nock/sub3suite
@@ -66,7 +67,6 @@ Powershell Script to aid Incidence Response and Live Forensics:  https://github.
 
 ### Profil3r
 OSINT tool that allows you to find a person's accounts and emails + breached emails:  https://github.com/Greyjedix/Profil3r
-
 
 ### Infoooze
 Infoooze is an Open-source intelligence (OSINT) tool in NodeJs. It provides various modules that allow efficient searches. : https://github.com/7ORP3DO/infoooze
@@ -178,7 +178,6 @@ https://github.com/glutanimate/PDFMtEd
 Extract Metadata from several audio containers
 https://github.com/tmont/audio-metadata
 
-
 ### Gesmask
 Information gathering tool - OSINT
 https://github.com/twelvesec/gasmask
@@ -199,12 +198,10 @@ https://github.com/scorelab/ANDROPHSY
 RdpCacheStitcher is a tool that supports forensic analysts in 
 reconstructing useful images out of RDP cache bitmaps. - https://github.com/BSI-Bund/RdpCacheStitcher
 
-
 ### Androidqf
 Androidqf (Android Quick Forensics) helps quickly gathering forensic 
 evidence from Android devices, in order to identify potential traces of 
 compromise. - https://github.com/botherder/androidqf
-
 
 ### IPED
 IPED is an open source software that can be used to process and analyze 
