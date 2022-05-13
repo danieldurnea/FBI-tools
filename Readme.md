@@ -37,6 +37,10 @@ A tool for OSINT based threat hunting. : https://github.com/ninoseki/mihari
 ### TRACEE
 Tracee: Runtime Security and Forensics using eBPF. : https://github.com/aquasecurity/tracee
 
+### gOSINT
+OSINT Swiss Army Knife
+https://github.com/Nhoya/gOSINT
+
 ### Karma v2
 K𝚊𝚛𝚖𝚊 𝚟𝟸 is a Passive Open Source Intelligence. : (OSINT) Automated Reconnaissance (framework) https://github.com/Dheerajmadhukar/karma_v2
 
