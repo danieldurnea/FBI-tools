@@ -97,6 +97,9 @@ Discover the location of nearby Telegram users 📡🌍 : https://github.com/tej
 Holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 https://github.com/megadose/holehe
 
+### Holehe Maltego Transform
+https://github.com/megadose/holehe-maltego
+
 ### Terra
 OSINT Tool on Twitter and Instagram. : https://github.com/xadhrit/terra
 
