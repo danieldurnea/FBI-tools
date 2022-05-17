@@ -1,3 +1,7 @@
+### FireFox Security Researcher
+Configure FireFox with Security and Intelligance features for OSINT and Security Investigations.
+https://github.com/simeononsecurity/FireFox-Security-Researcher
+
 ### Iris Web
 Collaborative Incident Response platform. : https://github.com/dfir-iris/iris-web
 
