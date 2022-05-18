@@ -1,8 +1,9 @@
-### Awesome forensic
-https://github.com/code/awesome-forensics
+### Awesome forensics
+A curated list of awesome forensic analysis tools and resources. :
+https://github.com/patronuscode/awesome-forensics
 
 ### MVT
-MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
+MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.:
 https://github.com/mvt-project/mvt
 
 ### FireFox Security Researcher
