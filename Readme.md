@@ -9,6 +9,9 @@ https://github.com/simeononsecurity/FireFox-Security-Researcher
 ### Iris Web
 Collaborative Incident Response platform. : https://github.com/dfir-iris/iris-web
 
+### Offensive OSINT Blog
+https://www.offensiveosint.io/
+
 ### Judge Jury and Executable
 A file system forensics analysis scanner and threat hunting tool. Scans file systems at the MFT and OS level and stores data in SQL, SQLite or CSV. Threats and data can be probed harnessing the power and syntax of SQL. : https://github.com/AdamWhiteHat/Judge-Jury-and-Executable
 
