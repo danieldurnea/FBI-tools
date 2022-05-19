@@ -1,3 +1,7 @@
+### Hayabusa 
+Hayabusa is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs written in Rust. :
+https://github.com/Yamato-Security/hayabusa
+
 ### Awesome forensics
 A curated list of awesome forensic analysis tools and resources. :
 https://github.com/patronuscode/awesome-forensics
