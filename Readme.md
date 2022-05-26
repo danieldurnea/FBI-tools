@@ -1,6 +1,9 @@
 ### 🕵️ Collection of 4000+ OSINT resources
 https://metaosint.github.io/table/
 
+### SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+https://github.com/smicallef/spiderfoot
+
 ### Hayabusa 
 Hayabusa is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs written in Rust. :
 https://github.com/Yamato-Security/hayabusa
