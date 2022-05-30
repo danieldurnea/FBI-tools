@@ -1,6 +1,9 @@
 ### 🕵️ Collection of 4000+ OSINT resources
 https://metaosint.github.io/table/
 
+### The best tools and resources for forensic analysis
+https://github.com/HSNHK/Computer-forensics
+
 ### SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 https://github.com/smicallef/spiderfoot
 
