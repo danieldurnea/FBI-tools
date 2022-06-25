@@ -1,6 +1,9 @@
 ### 🕵️ Collection of 4000+ OSINT resources
 https://metaosint.github.io/table/
 
+### GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).
+https://github.com/m3n0sd0n4ld/GooFuzz
+
 ### The best tools and resources for forensic analysis
 https://github.com/HSNHK/Computer-forensics
 
