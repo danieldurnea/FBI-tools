@@ -1,6 +1,9 @@
 ### 🕵️ Collection of 4000+ OSINT resources
 https://metaosint.github.io/table/
 
+### LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping.
+https://github.com/m8sec/CrossLinked
+
 ### GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).
 https://github.com/m3n0sd0n4ld/GooFuzz
 
