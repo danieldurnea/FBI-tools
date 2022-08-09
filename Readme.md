@@ -4,6 +4,9 @@ https://metaosint.github.io/table/
 ### LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping.
 https://github.com/m8sec/CrossLinked
 
+### OSINT ADVANCING YOUR EMAIL INVESTIGATIONS USING IKY
+https://github.com/kennbroorg/iKy
+
 ### 🕵️‍♂️ Offensive Google framework.
 https://github.com/mxrch/GHunt
 
