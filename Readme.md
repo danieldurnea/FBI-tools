@@ -7,6 +7,9 @@ https://github.com/m8sec/CrossLinked
 ### 🕵️‍♂️ Offensive Google framework.
 https://github.com/mxrch/GHunt
 
+### Docker image for osint
+https://github.com/Vault-Cyber-Security/osint
+
 ### This tool gives information about the phone number that you entered.
 https://github.com/AzizKpln/Moriarty-Project
 
