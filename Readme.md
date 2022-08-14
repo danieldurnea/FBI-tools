@@ -7,6 +7,9 @@ https://github.com/m8sec/CrossLinked
 ### OSINT ADVANCING YOUR EMAIL INVESTIGATIONS USING IKY
 https://github.com/kennbroorg/iKy
 
+### Sabonis, a Digital Forensics and Incident Response pivoting tool
+https://github.com/thedfirofficer/sabonis
+
 ### Public release of Telepathy, an OSINT toolkit for investigating Telegram chats.
 https://github.com/jordanwildon/Telepathy
 
