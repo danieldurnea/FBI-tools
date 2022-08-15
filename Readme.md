@@ -19,6 +19,10 @@ https://github.com/mxrch/GHunt
 ### Docker image for osint
 https://github.com/Vault-Cyber-Security/osint
 
+### Python Pentester Tool - easily add/create plugins, available in command line tool and module.
+https://github.com/HarryLudemann/Ngoto
+
+
 ### Exif Looter:-- ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap.
 https://github.com/aydinnyunus/exifLooter
 
