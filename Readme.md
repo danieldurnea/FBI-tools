@@ -10,6 +10,9 @@ https://github.com/m8sec/CrossLinked
 ### OSINT ADVANCING YOUR EMAIL INVESTIGATIONS USING IKY
 https://github.com/kennbroorg/iKy
 
+### Simple Imager has been created for performing live acquisition of Windows based systems in a forensically sound manner 
+https://github.com/QXJ6YW4/SimpleImager
+
 ### Sabonis, a Digital Forensics and Incident Response pivoting tool
 https://github.com/thedfirofficer/sabonis
 
