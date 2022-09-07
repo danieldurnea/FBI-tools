@@ -1,6 +1,9 @@
 ### 🕵️ Collection of 4000+ OSINT resources
 https://metaosint.github.io/table/
 
+### Avilla Forensics 3.0  / Tool for pollice investigation forensics Whatsapp-Signal other poppular apps message
+https://github.com/AvillaDaniel/AvillaForensics
+
 ### LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping.
 https://github.com/m8sec/CrossLinked
 
