@@ -16,6 +16,9 @@ https://github.com/QXJ6YW4/SimpleImager
 ### Sabonis, a Digital Forensics and Incident Response pivoting tool
 https://github.com/thedfirofficer/sabonis
 
+### An OSINT tool to search for accounts by username in social networks
+https://github.com/p1ngul1n0/blackbird
+
 ### Public release of Telepathy, an OSINT toolkit for investigating Telegram chats.
 https://github.com/jordanwildon/Telepathy
 
@@ -24,6 +27,8 @@ https://github.com/narkopolo/fb_friend_list_scraper
 
 ### 🕵️‍♂️ Offensive Google framework.
 https://github.com/mxrch/GHunt
+
+### 
 
 ### Docker image for osint
 https://github.com/Vault-Cyber-Security/osint
