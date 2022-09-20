@@ -13,6 +13,9 @@ https://github.com/kennbroorg/iKy
 ### OSINT automation for hackers.
 https://github.com/blacklanternsecurity/bbot
 
+### Citizen Intelligence Agency, open-source intelligence (OSINT) project
+https://github.com/Hack23/cia
+
 
 ### Simple Imager has been created for performing live acquisition of Windows based systems in a forensically sound manner 
 https://github.com/QXJ6YW4/SimpleImager
