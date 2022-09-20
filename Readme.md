@@ -16,6 +16,8 @@ https://github.com/blacklanternsecurity/bbot
 ### Citizen Intelligence Agency, open-source intelligence (OSINT) project
 https://github.com/Hack23/cia
 
+### This toolkit aims to help forensicators perform different kinds of acquisitions on iOS devices
+https://github.com/jfarley248/MEAT
 
 ### Simple Imager has been created for performing live acquisition of Windows based systems in a forensically sound manner 
 https://github.com/QXJ6YW4/SimpleImager
