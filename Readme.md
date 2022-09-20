@@ -29,6 +29,9 @@ https://github.com/p1ngul1n0/blackbird
 ### Public release of Telepathy, an OSINT toolkit for investigating Telegram chats.
 https://github.com/jordanwildon/Telepathy
 
+### An Open Source Intelligence Framework to investigate and keep track of the investigation of a certain individual 
+https://github.com/MustafaAP/pinosint
+
 ### OSINT tool to scrape names and usernames from large friend lists on Facebook, without being rate limited.
 https://github.com/narkopolo/fb_friend_list_scraper
 
