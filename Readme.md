@@ -13,6 +13,9 @@ https://github.com/kennbroorg/iKy
 ### Simple Imager has been created for performing live acquisition of Windows based systems in a forensically sound manner 
 https://github.com/QXJ6YW4/SimpleImager
 
+###Autoexif want to remove sensitive data from photos or even view it? use autoexif to easily help you do that no more remembering syntaxs, -note: this is now merged into snd and phisherprice
+https://github.com/SirCryptic/autoexif
+
 ### Sabonis, a Digital Forensics and Incident Response pivoting tool
 https://github.com/thedfirofficer/sabonis
 
