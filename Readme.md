@@ -23,6 +23,9 @@ https://github.com/SirCryptic/autoexif
 ### Sabonis, a Digital Forensics and Incident Response pivoting tool
 https://github.com/thedfirofficer/sabonis
 
+### Scraping LegiFrance naturalisation decrees for fun and OSINT profit
+https://github.com/vadimkantorov/natudump
+
 ### An OSINT tool to search for accounts by username in social networks
 https://github.com/p1ngul1n0/blackbird
 
