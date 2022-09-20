@@ -32,6 +32,9 @@ https://github.com/vadimkantorov/natudump
 ### An OSINT tool to search for accounts by username in social networks
 https://github.com/p1ngul1n0/blackbird
 
+### Ransomware groups posts
+https://github.com/privtools/ransomposts
+
 ### Public release of Telepathy, an OSINT toolkit for investigating Telegram chats.
 https://github.com/jordanwildon/Telepathy
 
