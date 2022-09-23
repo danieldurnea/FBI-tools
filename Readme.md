@@ -7,12 +7,10 @@ https://github.com/AvillaDaniel/AvillaForensics
 ### Tools OSINT/FORENSICS MOBILE
 Features
 A collection of tools (+ some theory) for cell phone related investigations:
-- phone directories;
-- cell analysis;
-- Android/iOS forensics;
-- IMEI lookup;
-- Telegram/WhatsApp account information gathering.
 https://github.com/CScorza/OSINT-FORENSICS-MOBILE
+
+### Complete list of sites where you can download the Distros that may be useful to those who are about to or are already in an advanced state in the context of OSINT, Penetration Testing, Digital Forensics and therefore also of Information Security.
+https://github.com/CScorza/DistroForensics
 
 ### 📱 Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
 https://github.com/den4uk/andriller
