@@ -9,6 +9,9 @@ Features
 A collection of tools (+ some theory) for cell phone related investigations
 https://github.com/CScorza/OSINT-FORENSICS-MOBILE
 
+### Current links from the OSINT Inception start-me project
+https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links
+
 ### Bevigil-cli provides a unified command line interface and python library for using BeVigil OSINT API.
 https://github.com/Bevigil/BeVigil-OSINT-CLI
 
