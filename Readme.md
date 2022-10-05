@@ -12,6 +12,9 @@ https://github.com/CScorza/OSINT-FORENSICS-MOBILE
 ### Bevigil-cli provides a unified command line interface and python library for using BeVigil OSINT API.
 https://github.com/Bevigil/BeVigil-OSINT-CLI
 
+### cURL Tool Usage for OSINT (Open-Source Intelligence)
+https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT
+
 ### Complete list of sites where you can download the Distros that may be useful to those who are about to or are already in an advanced state in the context of OSINT, Penetration Testing, Digital Forensics and therefore also of Information Security.
 https://github.com/CScorza/DistroForensics
 
