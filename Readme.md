@@ -21,6 +21,9 @@ https://github.com/Bevigil/BeVigil-OSINT-CLI
 ### cURL Tool Usage for OSINT (Open-Source Intelligence)
 https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT
 
+### Social Analyzer - API, CLI, and Web App for analyzing & finding a person's profile across +1000 social media \ websites. It includes different analysis and detection modules, and you can choose which modules to use during the investigation process.
+https://github.com/qeeqbox/social-analyzer
+
 ### Complete list of sites where you can download the Distros that may be useful to those who are about to or are already in an advanced state in the context of OSINT, Penetration Testing, Digital Forensics and therefore also of Information Security.
 https://github.com/CScorza/DistroForensics
 
