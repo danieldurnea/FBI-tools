@@ -9,6 +9,9 @@ Features
 A collection of tools (+ some theory) for cell phone related investigations
 https://github.com/CScorza/OSINT-FORENSICS-MOBILE
 
+### Protintelligence is a Python script for the Cyber Community. It also uses NeutrOSINT made by Kr0wZ. Will help you get info on Protonmail accounts and users, ProtonVPN IP adresses, ProtonMail users' PGP Keys, Digital Footprints left by the ProtonMail user on the Clear and Dark Web
+https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence
+
 ### Current links from the OSINT Inception start-me project
 https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links
 
