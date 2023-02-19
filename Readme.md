@@ -1,4 +1,4 @@
-### 🕵️ Collection of 4000+ OSINT resources
+Ii### 🕵️ Collection of 4000+ OSINT resources
 https://metaosint.github.io/table/
 
 ### Avilla Forensics 3.0  / Tool for pollice investigation forensics Whatsapp-Signal other poppular apps message
@@ -6,8 +6,20 @@ https://github.com/AvillaDaniel/AvillaForensics
 
 ### Tools OSINT/FORENSICS MOBILE
 Features
-A collection of tools (+ some theory) for cell phone related investigations
+### A collection of tools (+ some theory) for cell phone related investigations
 https://github.com/CScorza/OSINT-FORENSICS-MOBILE
+
+### So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
+https://github.com/OhShINT/ohshint.gitbook.io
+
+Documentation and Sharing Repository for ThreatPinch Lookup Chrome & Firefox Extension
+https://github.com/cloudtracer/ThreatPinchLookup
+### A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis.
+https://github.com/MetaOSINT/MetaOSINT.github.io
+
+### Geospatial Intelligence Library
+This repository contains a curated list of open source intelligence tools and resources focused on geolocation and chronolocation. A bookmark version of the most recent iteration of the following recourses is also available.
+https://github.com/cartographia/geospatial-intelligence-library
 
 ### Protintelligence is a Python script for the Cyber Community. It also uses NeutrOSINT made by Kr0wZ. Will help you get info on Protonmail accounts and users, ProtonVPN IP adresses, ProtonMail users' PGP Keys, Digital Footprints left by the ProtonMail user on the Clear and Dark Web
 https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence
