@@ -4,6 +4,11 @@ https://metaosint.github.io/table/
 ### Avilla Forensics 3.0  / Tool for pollice investigation forensics Whatsapp-Signal other poppular apps message
 https://github.com/AvillaDaniel/AvillaForensics
 
+### BBHTv2
+### A single script for all the tools you need for bug bounty. Thanks to the original creator of bbhtv1 for the idea >> https://github.com/nahamsec
+###Bug Bounty Hunting Tools is a script to install the most popular tools
+###One-Liner Install curl https://raw.githubusercontent.com/unethicalnoob/BBHTv2/master/bbhtv2.sh | sudo bash 
+
 ### Tools OSINT/FORENSICS MOBILE
 Features
 ### A collection of tools (+ some theory) for cell phone related investigations
