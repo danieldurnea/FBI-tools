@@ -1,4 +1,4 @@
-Ii### 🕵️ Collection of 4000+ OSINT resources
+KoIi### 🕵️ Collection of 4000+ OSINT resources
 https://metaosint.github.io/table/
 
 ### Avilla Forensics 3.0  / Tool for pollice investigation forensics Whatsapp-Signal other poppular apps message
@@ -12,7 +12,7 @@ https://github.com/CScorza/OSINT-FORENSICS-MOBILE
 ### So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 https://github.com/OhShINT/ohshint.gitbook.io
 
-Documentation and Sharing Repository for ThreatPinch Lookup Chrome & Firefox Extension
+### Documentation and Sharing Repository for ThreatPinch Lookup Chrome & Firefox Extension
 https://github.com/cloudtracer/ThreatPinchLookup
 ### A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis.
 https://github.com/MetaOSINT/MetaOSINT.github.io
