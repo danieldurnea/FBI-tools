@@ -1,4 +1,4 @@
-KoIi### 🕵️ Collection of 4000+ OSINT resources
+### 🕵️ Collection of 4000+ OSINT resources
 https://metaosint.github.io/table/
 
 ### Avilla Forensics 3.0  / Tool for pollice investigation forensics Whatsapp-Signal other poppular apps message
