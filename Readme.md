@@ -4,6 +4,9 @@ https://app.netlas.io/asd/
 ### Social Media #OSINT Tools Collection 👨🏽‍💻
 🔗https://github.com/osintambition/Social-Media-OSINT-Tools-Collection
 
+### Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes.
+https://github.com/shadawck/awesome-anti-forensic
+
 ### OSINT Toolkit is a full-stack web application designed to assist security analysts in their work
 https://github.com/dev-lu/osint_toolkit
 
