@@ -1,3 +1,6 @@
+### Cheat Sheet - OSINT 🕵🏽‍♂️
+https://piratemoo.gitbook.io/moo/moosint/osint
+
 ### An online tool to visualize the relationships of different entry points in an investigation (domain, email, phone, person etc). Extreme simplified analog of Maltego.
 https://app.netlas.io/asd/
 
