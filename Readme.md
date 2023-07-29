@@ -1,3 +1,9 @@
+### An online tool to visualize the relationships of different entry points in an investigation (domain, email, phone, person etc). Extreme simplified analog of Maltego.
+https://app.netlas.io/asd/
+
+### Social Media #OSINT Tools Collection 👨🏽‍💻
+🔗https://github.com/osintambition/Social-Media-OSINT-Tools-Collection
+
 ### OSINT Toolkit is a full-stack web application designed to assist security analysts in their work
 https://github.com/dev-lu/osint_toolkit
 
