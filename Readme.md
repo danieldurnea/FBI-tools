@@ -13,6 +13,10 @@ https://github.com/shadawck/awesome-anti-forensic
 ### OSINT Toolkit is a full-stack web application designed to assist security analysts in their work
 https://github.com/dev-lu/osint_toolkit
 
+### imago-forensics 🕵️
+Imago is a python tool that extract digital evidences from images recursively. This tool is useful throughout a digital forensic investigation.
+https://github.com/redaelli/imago-forensics
+
 ### 🕵️ Collection of 4000+ OSINT resources
 https://metaosint.github.io/table/
 
