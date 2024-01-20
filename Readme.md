@@ -1,3 +1,6 @@
+### OSINTk.o is a customized Kali Linux-based ISO image with pre-installed packages and scripts
+https://github.com/LinaYorda/OSINTko
+
 ### CyberPunkOS is a virtual machine that incorporates several tools for Open Source Intelligence (OSINT) to dismantle Fake News
 https://github.com/cyberpunkOS/CyberPunkOS
 
