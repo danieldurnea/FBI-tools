@@ -1,6 +1,11 @@
 ### CyberPunkOS is a virtual machine that incorporates several tools for Open Source Intelligence (OSINT) to dismantle Fake News
 https://github.com/cyberpunkOS/CyberPunkOS
 
+### One-click face swap
+### This software is designed to contribute positively to the AI-generated media industry, assisting artists with tasks like character animation and models for clothing.
+https://github.com/s0md3v/roop
+
+
 ### Cheat Sheet - OSINT 🕵🏽‍♂️
 https://piratemoo.gitbook.io/moo/moosint/osint
 
