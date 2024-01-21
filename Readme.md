@@ -11,6 +11,9 @@ https://github.com/s0md3v/roop
 ### Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs
 https://github.com/Alfredredbird/alfred
 
+### Prying Deep - An OSINT tool to collect intelligence on the dark web.
+https://github.com/iudicium/pryingdeep
+
 
 ### Cheat Sheet - OSINT 🕵🏽‍♂️
 https://piratemoo.gitbook.io/moo/moosint/osint
