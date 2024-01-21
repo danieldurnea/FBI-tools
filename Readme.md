@@ -8,6 +8,9 @@ https://github.com/cyberpunkOS/CyberPunkOS
 ### This software is designed to contribute positively to the AI-generated media industry, assisting artists with tasks like character animation and models for clothing.
 https://github.com/s0md3v/roop
 
+### Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs
+https://github.com/Alfredredbird/alfred
+
 
 ### Cheat Sheet - OSINT 🕵🏽‍♂️
 https://piratemoo.gitbook.io/moo/moosint/osint
