@@ -14,6 +14,8 @@ https://github.com/Alfredredbird/alfred
 ### Prying Deep - An OSINT tool to collect intelligence on the dark web.
 https://github.com/iudicium/pryingdeep
 
+### This Python script is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Information Gathering." It performs online information gathering by querying Google for search results related to a user-inputted query.
+https://github.com/AnonCatalyst/Ominis-Osint
 
 ### Cheat Sheet - OSINT 🕵🏽‍♂️
 https://piratemoo.gitbook.io/moo/moosint/osint
