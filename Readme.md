@@ -8,6 +8,14 @@ https://github.com/cyberpunkOS/CyberPunkOS
 ### This software is designed to contribute positively to the AI-generated media industry, assisting artists with tasks like character animation and models for clothing.
 https://github.com/s0md3v/roop
 
+### Short OSINT automation courses, each of which requires only one hour of reading to learn:
+
+### Linux for OSINT. 21-day
+https://github.com/cipher387/linux-for-OSINT-21-day
+
+### Python for OSINT. 21-day
+https://github.com/cipher387/python-for-OSINT-21-days
+
 ### Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs
 https://github.com/Alfredredbird/alfred
 
