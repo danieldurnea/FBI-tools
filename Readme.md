@@ -60,6 +60,12 @@ Features
 ### A collection of tools (+ some theory) for cell phone related investigations
 https://github.com/CScorza/OSINT-FORENSICS-MOBILE
 
+### Forensic Copy Acquisition and Analysis Tools
+https://github.com/CScorza/Analisi-Digital-Forense
+
+### Useful Extensions for OSINT
+https://github.com/CScorza/EstensioniChromeOSINT
+
 ### So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 https://github.com/OhShINT/ohshint.gitbook.io
 
