@@ -6,11 +6,6 @@ https://github.com/cyberpunkOS/CyberPunkOS
 
 ### Chiasmodon 🥷🏼
 Command line #osint toolkit for domain information gathering. 
-### Search by:
-- domain name
-- Google Play Store ID
-- CIDR/ASN
-- email/username/password
 Partly free.
 https://github.com/chiasmod0n/chiasmodon
 
