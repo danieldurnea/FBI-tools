@@ -4,6 +4,16 @@ https://github.com/LinaYorda/OSINTko
 ### CyberPunkOS is a virtual machine that incorporates several tools for Open Source Intelligence (OSINT) to dismantle Fake News
 https://github.com/cyberpunkOS/CyberPunkOS
 
+### Chiasmodon 🥷🏼
+Command line #osint toolkit for domain information gathering. 
+### Search by:
+- domain name
+- Google Play Store ID
+- CIDR/ASN
+- email/username/password
+Partly free.
+https://github.com/chiasmod0n/chiasmodon
+
 ### One-click face swap
 ### This software is designed to contribute positively to the AI-generated media industry, assisting artists with tasks like character animation and models for clothing.
 https://github.com/s0md3v/roop
