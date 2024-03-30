@@ -31,7 +31,7 @@ https://github.com/iudicium/pryingdeep
 https://github.com/AnonCatalyst/Ominis-Osint
 
 ### Cheat Sheet - OSINT 🕵🏽‍♂️
-https://piratemoo.gitbook.io/moo/moosint/osint
+https://notes.piratemoo.com/moo/moosint
 
 ### An online tool to visualize the relationships of different entry points in an investigation (domain, email, phone, person etc). Extreme simplified analog of Maltego.
 https://app.netlas.io/asd/
