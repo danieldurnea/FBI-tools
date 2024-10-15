@@ -2,9 +2,6 @@
 ### Explore Every Corner with Precision
 ### Streamline your research capabilities by employing
 ### the ultimate Open Source Intelligence (OSINT)
-platform. Respond to threats before they appear and
-### monitor various sources to complete your
-### investigation.
 https://www.os-surveillance.io/
 
 ### OSINTk.o is a customized Kali Linux-based ISO image with pre-installed packages and scripts
