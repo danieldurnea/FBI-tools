@@ -229,6 +229,9 @@ https://github.com/megadose/quidam-maltego
 ### OnionSearch
 OnionSearch is a script that scrapes urls on different .onion search engines. : https://github.com/megadose/OnionSearch
 
+### onion-lookup
+onion-lookup is a service (API, web) for checking the existence of Tor hidden services and retrieving their associated metadata. onion-lookup relies on an private AIL instance to obtain the metadata.: https://onion.ail-project.org/
+
 ### Linux explorer 
 Easy-to-use live forensics toolbox for Linux endpoints. : https://github.com/intezer/linux-explorer
 
