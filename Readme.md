@@ -4,8 +4,24 @@
 ### the ultimate Open Source Intelligence (OSINT)
 https://www.os-surveillance.io/
 
+### SquatSquasher
+### A tool to find domains (by primary domain name) that can be used for type squatting and other #phishing attacks.
+🔗 https://github.com/Stuub/SquatSquasher
+
+### 𝐎𝐬𝐢𝐧𝐭𝐍𝐮𝐦 👨🏽‍💻
+### Tool to make OSINT to phone numbers with the help of APILayer, using its api together with Number Verification API. 🕵🏽‍♂️
+👁 https://github.com/HackUnderway/OsintNum
+
+### 𝐖𝐡𝐚𝐭𝐬𝐎𝐒𝐈𝐍𝐓 👨🏽‍💻
+### View data of a WhatsApp number, including its status, photo, etc. 🕵🏽‍♂️
+📱https://github.com/HackUnderway/WhatsOSINT
+
 ### OSINTk.o is a customized Kali Linux-based ISO image with pre-installed packages and scripts
 https://github.com/LinaYorda/OSINTko
+
+### 𝐎𝐬𝐢𝐧𝐭𝐍𝐮𝐦 👨🏽‍💻
+Tool to make OSINT to phone numbers with the help of APILayer, using its api together with Number Verification API. 🕵🏽‍♂️
+👁 https://github.com/HackUnderway/OsintNum
 
 ### CyberPunkOS is a virtual machine that incorporates several tools for Open Source Intelligence (OSINT) to dismantle Fake News
 https://github.com/cyberpunkOS/CyberPunkOS
