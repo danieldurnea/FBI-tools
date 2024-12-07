@@ -8,6 +8,10 @@ https://www.os-surveillance.io/
 ### A tool to find domains (by primary domain name) that can be used for type squatting and other #phishing attacks.
 🔗 https://github.com/Stuub/SquatSquasher
 
+### UsernameSearchOSINT
+### Tool made in Flask to search for users on different platforms, to make OSINT. 🕵🏽‍♂️
+https://github.com/HackUnderway/UsernameSearchOSINT
+
 ### 𝐎𝐬𝐢𝐧𝐭𝐍𝐮𝐦 👨🏽‍💻
 ### Tool to make OSINT to phone numbers with the help of APILayer, using its api together with Number Verification API. 🕵🏽‍♂️
 👁 https://github.com/HackUnderway/OsintNum
