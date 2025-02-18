@@ -8,6 +8,9 @@ https://www.os-surveillance.io/
 ### A tool to find domains (by primary domain name) that can be used for type squatting and other #phishing attacks.
 🔗 https://github.com/Stuub/SquatSquasher
 
+### web-check
+### 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+
 ### Osint_toolkit
 ### A full stack web application that combines many tools and services for security analysts into a single tool.
 https://github.com/dev-lu/osint_toolkit
