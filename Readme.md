@@ -1,6 +1,4 @@
 ### OS - Surveillance
-### Explore Every Corner with Precision
-### Streamline your research capabilities by employing
 ### the ultimate Open Source Intelligence (OSINT)
 https://www.os-surveillance.io/
 
