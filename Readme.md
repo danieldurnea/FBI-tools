@@ -6,6 +6,13 @@ https://www.os-surveillance.io/
 ### A tool to find domains (by primary domain name) that can be used for type squatting and other #phishing attacks.
 🔗 https://github.com/Stuub/SquatSquasher
 
+### https://darkweblink.io
+
+### http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion/    - (Tor Onion Link)
+
+### https://hiddenwiki.se
+
+### https://onionhub.com/
 
 ### reNgine: The Ultimate Web Reconnaissance & Vulnerability Scanner 🚀
 https://github.com/yogeshojha/rengine
